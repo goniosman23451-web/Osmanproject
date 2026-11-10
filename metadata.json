@@ -1,0 +1,6 @@
+{
+  "name": "Studio Origami - Digital Asset Marketplace & Portfolio",
+  "description": "A sleek dark-mode portfolio and digital asset marketplace showcasing precision vector graphics, sacred mandala patterns, and 3D origami papercraft assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
